@@ -1,0 +1,1 @@
+# moto-log-policy
